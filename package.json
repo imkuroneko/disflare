@@ -1,0 +1,33 @@
+{
+  "name": "disflare",
+  "version": "1.0.0",
+  "description": "Discord bot for cloudflare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imkuroneko/disflare.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "nodejs",
+    "discord.js"
+  ],
+  "author": "KuroNeko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/imkuroneko/disflare/issues"
+  },
+  "homepage": "https://github.com/imkuroneko/disflare#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "axios": "^0.27.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^14.0.3",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2"
+  }
+}
